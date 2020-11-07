@@ -16,6 +16,8 @@ A danmaku shmup.
 * [Browser version - source code](https://github.com/dtsudo/DT-Danmaku-v1.00-Web-Browser-Version)
 * [Browser version - demo](https://github.com/dtsudo/DT-Danmaku-v1.00-Web-Browser-Version-Demo)
 
+# Programming competitions
+
 ## Halite AI
 
 An AI for playing Halite.
@@ -23,7 +25,7 @@ An AI for playing Halite.
 * [Source code](https://github.com/dtsudo/HaliteAI)
 * [Halite](https://github.com/dtsudo/Halite)
 
-## Third-party dependencies
+# Third-party dependencies
 
 * Bridge: A C# to javascript transpiler
 ** [Bridge](https://github.com/dtsudo/Bridge)
