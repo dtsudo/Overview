@@ -30,3 +30,7 @@ An AI for playing Halite.
 * Bridge: A C# to javascript transpiler
   * [Bridge](https://github.com/dtsudo/Bridge)
   * [Bridge CLI](https://github.com/dtsudo/CLI)
+
+# Other
+
+* A [hello world repo](https://github.com/dtsudo/Hello-World) to try out GitHub features.
