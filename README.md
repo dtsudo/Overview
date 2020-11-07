@@ -28,5 +28,5 @@ An AI for playing Halite.
 # Third-party dependencies
 
 * Bridge: A C# to javascript transpiler
-** [Bridge](https://github.com/dtsudo/Bridge)
-** [Bridge CLI](https://github.com/dtsudo/CLI)
+  * [Bridge](https://github.com/dtsudo/Bridge)
+  * [Bridge CLI](https://github.com/dtsudo/CLI)
