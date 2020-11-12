@@ -24,6 +24,7 @@ An AI for playing Halite.
 
 * [Source code](https://github.com/dtsudo/HaliteAI)
 * [Halite](https://github.com/dtsudo/Halite)
+* [User page on 2016.halite.io](https://2016.halite.io/user.html?userID=3326)
 
 # Third-party dependencies
 
